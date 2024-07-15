@@ -18,12 +18,6 @@
 
 ---
 
-## About Me
-
-Hello, world! I'm Nicole, a passionate software engineering student from Lima, Peru. I specialize in full-stack development with a keen interest in front-end magic and back-end sorcery.
-
----
-
 ## Skills
 
 ### Programming Languages
