@@ -45,7 +45,7 @@
 
 ## Contact Me
 
-- 📧 [nicolepricetorrejon@gmail.com](mailto:nicolepricetorrejon@gmail.com)
+- 📧 [contact.nicoleprice@gmail.com](mailto:contact.nicoleprice@gmail.com)
 
 ---
 
